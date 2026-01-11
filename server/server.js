@@ -30,5 +30,6 @@ app.delete("/delete/:index", (req, res) => {
 });
 
 app.listen(5000, () => {
-    console.log("✅ Server running on http://localhost:5000");
+    console.log(https://student-management-backend-ysad.onrender.com
+
 });
